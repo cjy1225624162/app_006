@@ -1,0 +1,11 @@
+info: &data
+  name: lili
+  phone: 13611111111
+
+address: &address
+  <<: *data
+  detail: 程序员
+
+con:
+  <<: *address
+  bir: 2020-11-11

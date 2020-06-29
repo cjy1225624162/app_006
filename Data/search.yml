@@ -1,0 +1,9 @@
+search_001:
+  search_data: "1"
+  search_result: "休眠"
+search_002:
+  search_data: "m"
+  search_result: "MAC地址"
+search_003:
+  search_data: "i"
+  search_result: "IP地址"
